@@ -1,6 +1,6 @@
 # Google Play Store - Analysis (2018)
 
-##Introduction
+## Introduction
 
 This notebook is an analysis of the Google Play Store in terms of popularity, competition and revenue.
 
